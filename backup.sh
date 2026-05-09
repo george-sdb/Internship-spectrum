@@ -1,0 +1,5 @@
+file="/home/george/shell/vote.sh"
+backup="/home/george/Documents/backup/"
+mkdir "/home/george/Documents/backup"
+cp "$file" "$backup"
+echo "backup completed" 
